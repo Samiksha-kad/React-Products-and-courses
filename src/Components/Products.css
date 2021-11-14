@@ -1,0 +1,116 @@
+.deals{
+    margin-top: 35px;
+    margin-left: 37px;
+    color: #3E419B;
+    margin-bottom: 20px;
+  }
+  .footer_img{
+    text-align: center;
+    justify-content: center;
+    height: 70px;
+    width: 70px;
+}
+.footer_p{
+    margin-top: 10px;
+    text-align: center;
+    font-family:' Lobster',cursive;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+.heading6{
+    margin-top: 10px;
+    text-align: center;
+    font-family:' Lobster',cursive;
+    font-weight: bold;
+    font-size: 23px;
+    color:crimson;
+}
+.p1{
+    margin-top: 10px;
+    text-align: center;
+    font-family:' Lobster',cursive;
+    font-weight: bold;
+    font-size: 17px;
+
+}
+.facebook{
+    background-image:linear-gradient(rgb(158, 211, 255),rgb(35, 35, 248));
+    color: white !important;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 19%;
+    border-radius: 10px;
+    margin-left: 3px;
+}
+.facebook:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.label-facebook{
+    margin-left: 5px;
+}
+.instagram{
+    background-image:linear-gradient(rgb(252, 142, 202),rgb(248, 35, 124));
+    color: white !important;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 20%;
+    border-radius: 10px;
+
+}
+.instagram:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.twitter{
+    background-image:linear-gradient(rgb(71, 200, 247),rgb(153, 241, 255));
+    color: white !important;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 19%;
+    border-radius: 10px;
+}
+.twitter:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.dribble{
+    background-image:linear-gradient(rgb(255, 70, 233),rgb(226, 38, 255));
+    color: white !important;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 20%;
+    border-radius: 10px;
+}
+.dribble:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.pinterest{
+    background-image:linear-gradient(rgb(255, 70, 113),rgb(255, 38, 38));
+    color: white !important;
+    font-size: 1.3rem;
+    font-weight: bold;
+    width: 20%;
+    border-radius: 10px;
+}
+.pinterest:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.logo_down{
+    margin-top:20px;
+}
+.footer_p1{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.colors{ 
+    margin-left: 640px;
+}
+.clients{
+    margin-top:10px;
+    height:50px;
+    width:90px;
+    border:1px solid black;
+
+}

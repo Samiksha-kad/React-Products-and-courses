@@ -1,0 +1,22 @@
+.market__h2{
+    margin-top: 27px;
+    border-bottom: 1px solid darkblue;
+}
+.chart{
+    width: 100%;
+    height: 319px;
+}
+.market__h3{
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+}
+.language{
+    background-color: rgb(243, 120, 120);
+    padding: 3px;
+    padding-bottom: 0px;
+    font-size:1.5rem;
+    color: white;
+}
+.data_set{
+    background-color: rgb(237, 252, 250);
+}

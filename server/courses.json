@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "name": "dsss",
+      "email": "raghunathkad3@gmail.com",
+      "mobile": "9823609033",
+      "enquiry": "Python",
+      "message": "asas",
+      "id": 6
+    },
+    {
+      "name": "Samiksha Kad",
+      "email": "raghunathkad3@gmail.com",
+      "mobile": "9518354701",
+      "enquiry": "Java",
+      "message": "Enquiry Details",
+      "id": 7
+    },
+    {
+      "name": "samiksha",
+      "email": "samiksha.kad@neosoftmail.com",
+      "mobile": "9823609033",
+      "enquiry": "Java",
+      "message": "Enquiry Details",
+      "id": 8
+    }
+  ],
+  "courses": [
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/911175d0-6724-4276-a058-c7b052773dd1-aba3108f3ab9.small.png"
+    },
+    {
+      "name": "Programming for Everybody (How to code:Simple Data)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/895afa12-6162-420d-a522-9945ddf29011-fb7c4a5e516a.small.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "image": "https://prod-discovery.edx-cdn.org/organization/logos/8c9a342a-2a11-4845-ba09-14b85645d8ac-9dd7b26745d2.png"
+    },
+    {
+      "name": "Programming for Everybody (Introduction to C++)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/62ed92c9-22b6-43a6-a755-0f296d0f64ce-8b3c8aa8f0af.small.jpeg"
+    },
+    {
+      "name": "Programming for Everybody (Advanced to C++)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/62ed92c9-22b6-43a6-a755-0f296d0f64ce-8b3c8aa8f0af.small.jpeg"
+    },
+    {
+      "name": "Programming for Everybody (Computer Science Fundamentals)",
+      "image": "https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Programming Basics)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/5c258ef0-559a-4d52-99ff-43c6d10e62cd-49e449fbd928.small.png"
+    },
+    {
+      "name": "Programming for Everybody (Introduction to Java Programming)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/80a9dc0a-c757-4a98-bf12-f6828b5295c4-0af8840e563f.small.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Advanced to Java Programming)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/c41c076c-4944-4974-ae73-cdba2f76f7ce-64e6625225b8.small.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Computing in Python I)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/382aaed7-05e3-486d-9867-f890242eb648-fabb844ba847.small.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Computing in Python II)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/c5e767ab-090a-4204-8030-93c810b7ef64-ab954adfd3bd.small.jpg"
+    },
+    {
+      "name": "Programming for Everybody (Computing in Python III)",
+      "image": "https://prod-discovery.edx-cdn.org/media/course/image/382aaed7-05e3-486d-9867-f890242eb648-fabb844ba847.small.jpg"
+    }
+  ]
+}
